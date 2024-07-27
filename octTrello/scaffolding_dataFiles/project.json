@@ -1,0 +1,14 @@
+[
+  {
+    "projectID": 1,
+    "projectName": "Project Alpha",
+    "description": "This is the first project.",
+    "ownerID": "String",
+    "organisationID": "string",
+    "status": "enumString",
+    "createdDate": "string",
+    "editedDate": "String",
+    "userAccessRead": "iDs",
+    "userAccess": "iDs"
+  }
+]
