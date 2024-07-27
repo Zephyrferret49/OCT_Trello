@@ -1,0 +1,10 @@
+[
+  {
+    "scriptID": "string",
+    "scriptName": "String",
+    "scriptFile": "String",
+    "Param1": "NAME",
+    "Param2": "AGE",
+    "Param3": "etc"
+  }
+]
